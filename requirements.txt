@@ -1,0 +1,9 @@
+fastapi
+fastmcp
+langchain
+chromadb
+transformers
+torch
+huggingface-hub
+pymupdf
+uvicorn
